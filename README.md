@@ -20,3 +20,20 @@ Göçebe Blog, şehir değiştiren bireyler için özel olarak tasarlanmış bir
 - **Cloudinary**: Görsel yükleme ve yönetim hizmeti.
 - **JWT**: Kullanıcı kimlik doğrulama ve yetkilendirme.
 - **Bcrypt**: Kullanıcı şifrelerini güvenli bir şekilde saklamak için kullanılır.
+
+## Backend Deploy
+
+```bash
+cd backend
+npm install
+npm start
+
+```
+
+## Frontend Deploy
+```bash
+cd frontend
+npm install
+npm run dev
+
+```
